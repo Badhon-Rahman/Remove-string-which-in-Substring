@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1566477369 source:c:\badhon\remove string which in substring\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+
